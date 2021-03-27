@@ -1,0 +1,6 @@
+[project]
+name = portfolio
+
+[servers.ghpages]
+name = deploy
+target = ghpages+https://vektoririna:6d4ccd1a4d67eedbeba4b4fee818315e93363b2c@vektoririna/kp.github.io
